@@ -1,0 +1,11 @@
+#cintih input string
+nama = input ("smasukkan nama anda:")
+print("halo", nama)
+
+#contoh input integer
+umur = int (input("masukkan umur:"))
+print("umur anda", umur)
+
+#contoh input float
+ipk = float(input ("masukkan ipk:"))
+print("ipk anda: ", ipk)
